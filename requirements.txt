@@ -1,0 +1,76 @@
+# Java 8 Full Stack Web Application Learning Guide
+
+## Project Overview
+**Employee Management Portal** - Learning JSF with EJB using Java 8, Tomcat 9, PostgreSQL
+
+## Learning Objectives
+1. Master JSF (JavaServer Faces) step by step
+2. Understand EJB (Enterprise JavaBeans) types and implementation
+3. Integrate JSF with EJB for full-stack development
+4. Build enterprise-grade web application with database integration
+
+## Technology Stack
+- **Java Version**: Java 8
+- **Application Server**: Tomcat 9
+- **Web Framework**: JSF (Latest compatible with javax.servlet)
+- **Business Logic**: EJB (Enterprise JavaBeans)
+- **Database**: PostgreSQL
+- **Database Management**: Adminer
+- **Development Time**: 3 days (3 hours each day)
+
+## EJB Types to Learn
+1. **Stateless Session Beans**
+2. **Stateful Session Beans**
+3. **Entity Beans**
+4. **Message-Driven Beans**
+
+## Application Features
+
+### Core Features
+1. **Employee Registration**
+   - User fills in all personal details
+   - Form validation and data persistence
+
+2. **Login Page**
+   - Authentication system
+   - Session management
+
+3. **Employee Management Portal**
+   - CRUD operations (Create, Read, Update, Delete)
+   - Employee data management
+   - Search and filtering capabilities
+
+### Extended Learning Features
+- JSF navigation and page flow
+- EJB transaction management
+- Database connectivity and ORM concepts
+- Enterprise security practices
+- Session and state management
+
+## Learning Path Timeline
+
+### Day 1: Foundation Setup (3 hours)
+- Environment setup (Java 8, Tomcat 9, PostgreSQL, Adminer)
+- JSF basics and configuration
+- Database schema design for Employee Management
+- Initial project structure
+
+### Day 2: Core Implementation (3 hours)
+- EJB implementation (Stateless and Stateful beans)
+- Employee Registration module
+- Login authentication system
+- Basic JSF-EJB integration
+
+### Day 3: Advanced Features (3 hours)
+- Complete Employee Management Portal
+- Advanced JSF components and features
+- Message-Driven Beans integration
+- Testing and deployment
+
+## Key Learning Areas
+- **JSF Features**: Component-based UI, navigation, validation, conversion
+- **EJB Features**: Session management, transaction handling, messaging
+- **Enterprise Integration**: Database transactions, security, scalability
+- **Best Practices**: Code organization, error handling, maintainability
+
+This structured approach will provide hands-on experience with enterprise Java technologies while building a functional Employee Management application.
